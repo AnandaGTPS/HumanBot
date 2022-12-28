@@ -9,14 +9,14 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://api.zeeoneofc.xyz': 'j7RMNFaR',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
 global.autoread = true // auto read message
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = true
+global.userRegister = false
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -39,8 +39,8 @@ global.premium = ['6282139672290'] //premium user
 global.owner = ["6282139672290"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282139672290" // nomor wa kalian
 global.ownernomerr = "+6282139672290" //nmr wa kalian
-global.thumbnail = "./image/lols.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasis.jpg" // foto donasi di folder image
+global.thumbnail = "./image/lols.png" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasis.png" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© HumanBot-Mdོ' //sticker wm ubah
